@@ -1,0 +1,35 @@
+questão 1 
+r: 91
+
+questão 3
+a) 9    (ímpares)
+b) 128  (potências de 2)
+c) 48   (quadrados perfeitos)
+d) 100  (quadrados perfeitos pares)
+e) 13   (fibonacci)
+f) 200  (numeros que começam com D)
+
+questão 4
+
+considerando que o caminhão vai passar por 2 pedágios antes 
+de encontrar o carro, pode se considerar como se ele tivesse
+saido 10m mais tarde que o carro
+
+o carro a 110/h por 10m vai encurtar a distância de 100km
+para 81,7km
+110  =   x       ->    110   ~ 18,3km
+ 1h     1/6h            6
+
+como os carros estão indo um em direção ao outroa velocidade
+relativa deles é a soma de suas velocidades (190km/h)
+
+para percorrer 81,7km a 190km/h vai demorar 0.43h
+
+t = 81,7   ->  0.43
+    190
+
+considerando o ponto do caminhão a 80/h por 0.43h
+ele vei percorrer ~34,4 km ou seja metade do caminho de 100km
+
+R: li novamente a pergunta e percebi que quando eles se 
+encontrarem vão estar a mesma distância da cidade de RP, :( pegadinha
